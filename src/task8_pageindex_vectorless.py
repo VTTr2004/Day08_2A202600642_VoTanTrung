@@ -34,6 +34,8 @@ PAGEINDEX_MANIFEST_PATH = PAGEINDEX_DIR / "pageindex_manifest.json"
 PAGEINDEX_API_KEY = os.getenv("PAGEINDEX_API_KEY", "")
 PAGEINDEX_DOC_IDS = [doc_id.strip() for doc_id in os.getenv("PAGEINDEX_DOC_IDS", "").split(",") if doc_id.strip()]
 PAGEINDEX_API_BASE = os.getenv("PAGEINDEX_API_BASE", "https://api.vectify.ai").rstrip("/")
+LOCAL_SECTION_MAX_CHARS = 1800
+_LOCAL_SECTIONS_CACHE: list[dict] | None = None
 
 
 def _headers() -> dict[str, str]:
@@ -230,6 +232,10 @@ def _normalize_pageindex_nodes(payload: dict, doc_id: str) -> list[dict]:
 
 
 def _local_markdown_sections() -> list[dict]:
+    global _LOCAL_SECTIONS_CACHE
+    if _LOCAL_SECTIONS_CACHE is not None:
+        return _LOCAL_SECTIONS_CACHE
+
     sections = []
     for md_file in sorted(STANDARDIZED_DIR.rglob("*.md")):
         content = md_file.read_text(encoding="utf-8").strip()
@@ -242,18 +248,27 @@ def _local_markdown_sections() -> list[dict]:
         def flush() -> None:
             if current_lines:
                 relative_path = md_file.relative_to(STANDARDIZED_DIR)
-                sections.append(
-                    {
-                        "heading": current_heading,
-                        "content": "\n".join(current_lines).strip(),
-                        "metadata": {
-                            "source": md_file.name,
-                            "path": str(relative_path).replace("\\", "/"),
-                            "type": relative_path.parts[0] if len(relative_path.parts) > 1 else "unknown",
-                            "retrieval_mode": "local_pageindex_vectorless",
-                        },
-                    }
-                )
+                section_text = "\n".join(current_lines).strip()
+                base_metadata = {
+                    "source": md_file.name,
+                    "path": str(relative_path).replace("\\", "/"),
+                    "type": relative_path.parts[0] if len(relative_path.parts) > 1 else "unknown",
+                    "retrieval_mode": "local_pageindex_vectorless",
+                }
+                for start in range(0, len(section_text), LOCAL_SECTION_MAX_CHARS):
+                    part = section_text[start : start + LOCAL_SECTION_MAX_CHARS].strip()
+                    if not part:
+                        continue
+                    sections.append(
+                        {
+                            "heading": current_heading,
+                            "content": part,
+                            "metadata": {
+                                **base_metadata,
+                                "section_offset": start,
+                            },
+                        }
+                    )
 
         for line in content.splitlines():
             if re.match(r"^#{1,3}\s+", line):
@@ -264,6 +279,7 @@ def _local_markdown_sections() -> list[dict]:
                 current_lines.append(line)
         flush()
 
+    _LOCAL_SECTIONS_CACHE = sections
     return sections
 
 
