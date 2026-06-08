@@ -1,21 +1,20 @@
 """
 Task 5 - Semantic Search Module.
 
-Dense retrieval is performed over the local JSON vector store created by
-Task 4. Query embeddings use the exact same model configured there:
+Dense retrieval is performed over the ChromaDB vector store created by Task 4.
+Query embeddings use the exact same model configured there:
 sentence-transformers/all-MiniLM-L6-v2.
 """
 
 from __future__ import annotations
 
-import json
-import math
 import os
 import sys
 from pathlib import Path
 
 try:
     from src.task4_chunking_indexing import (
+        CHROMA_COLLECTION_NAME,
         EMBEDDING_DIM,
         EMBEDDING_MODEL,
         VECTOR_STORE_PATH,
@@ -27,6 +26,7 @@ except ModuleNotFoundError:
     project_root = Path(__file__).resolve().parent.parent
     sys.path.insert(0, str(project_root))
     from src.task4_chunking_indexing import (
+        CHROMA_COLLECTION_NAME,
         EMBEDDING_DIM,
         EMBEDDING_MODEL,
         VECTOR_STORE_PATH,
@@ -35,28 +35,37 @@ except ModuleNotFoundError:
     )
 
 
-def _load_vector_store() -> dict:
-    """Load Task 4 vector store, building it once if it does not exist."""
+def _get_collection():
+    """Load Task 4 ChromaDB collection, building it once if it does not exist."""
+    try:
+        import chromadb
+    except ImportError:
+        return None
+
     if not VECTOR_STORE_PATH.exists():
         try:
             run_pipeline()
         except Exception:
-            return {"records": []}
+            return None
 
     try:
-        return json.loads(VECTOR_STORE_PATH.read_text(encoding="utf-8"))
-    except (OSError, json.JSONDecodeError):
-        return {"records": []}
+        client = chromadb.PersistentClient(path=str(VECTOR_STORE_PATH))
+        collection = client.get_collection(CHROMA_COLLECTION_NAME)
+        if collection.count() == 0:
+            run_pipeline()
+            collection = client.get_collection(CHROMA_COLLECTION_NAME)
+        return collection
+    except Exception:
+        try:
+            run_pipeline()
+            client = chromadb.PersistentClient(path=str(VECTOR_STORE_PATH))
+            return client.get_collection(CHROMA_COLLECTION_NAME)
+        except Exception:
+            return None
 
 
-def _embed_query(query: str, store: dict) -> list[float] | None:
+def _embed_query(query: str) -> list[float] | None:
     """Embed query with the same model/vector format used for indexed chunks."""
-    records = store.get("records", [])
-    uses_hash_fallback = any(
-        "hash fallback" in str(record.get("metadata", {}).get("embedding_model", ""))
-        for record in records
-    )
-
     try:
         from sentence_transformers import SentenceTransformer
 
@@ -64,24 +73,9 @@ def _embed_query(query: str, store: dict) -> list[float] | None:
         embedding = model.encode(query, normalize_embeddings=True)
         return embedding.tolist()
     except Exception:
-        # Only use the deterministic fallback when the index itself was built
-        # with that fallback, or when explicitly requested for offline smoke tests.
-        if uses_hash_fallback or os.getenv("ALLOW_HASH_EMBEDDING_FALLBACK") == "1":
+        if os.getenv("ALLOW_HASH_EMBEDDING_FALLBACK") == "1":
             return _hash_embedding(query)
         return None
-
-
-def _cosine_similarity(left: list[float], right: list[float]) -> float:
-    """Return cosine similarity for two vectors."""
-    if not left or not right or len(left) != len(right):
-        return 0.0
-
-    dot = sum(a * b for a, b in zip(left, right))
-    left_norm = math.sqrt(sum(a * a for a in left))
-    right_norm = math.sqrt(sum(b * b for b in right))
-    if left_norm == 0.0 or right_norm == 0.0:
-        return 0.0
-    return dot / (left_norm * right_norm)
 
 
 def semantic_search(query: str, top_k: int = 10) -> list[dict]:
@@ -99,37 +93,44 @@ def semantic_search(query: str, top_k: int = 10) -> list[dict]:
     if not query or top_k <= 0:
         return []
 
-    store = _load_vector_store()
-    records = store.get("records", [])
-    if not records:
+    collection = _get_collection()
+    if collection is None:
         return []
 
-    query_embedding = _embed_query(query, store)
+    query_embedding = _embed_query(query)
     if query_embedding is None:
         return []
 
     if len(query_embedding) != EMBEDDING_DIM:
         return []
 
+    query_result = collection.query(
+        query_embeddings=[query_embedding],
+        n_results=top_k,
+        include=["documents", "metadatas", "distances"],
+    )
+
     results = []
-    for record in records:
-        embedding = record.get("embedding") or []
-        score = _cosine_similarity(query_embedding, embedding)
+    documents = query_result.get("documents", [[]])[0]
+    metadatas = query_result.get("metadatas", [[]])[0]
+    distances = query_result.get("distances", [[]])[0]
+    for document, metadata, distance in zip(documents, metadatas, distances):
+        score = 1.0 - float(distance)
+        metadata = metadata or {}
         results.append(
             {
-                "content": record.get("content", ""),
+                "content": document or "",
                 "score": float(score),
                 "metadata": {
-                    **record.get("metadata", {}),
-                    "embedding_model": record.get("metadata", {}).get("embedding_model", EMBEDDING_MODEL),
-                    "embedding_dim": record.get("metadata", {}).get("embedding_dim", EMBEDDING_DIM),
-                    "vector_store": store.get("vector_store", "local_json"),
+                    **metadata,
+                    "embedding_model": metadata.get("embedding_model", EMBEDDING_MODEL),
+                    "embedding_dim": metadata.get("embedding_dim", EMBEDDING_DIM),
+                    "vector_store": "chromadb",
                 },
             }
         )
 
-    results.sort(key=lambda item: item["score"], reverse=True)
-    return results[:top_k]
+    return results
 
 
 if __name__ == "__main__":

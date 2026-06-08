@@ -11,3 +11,4 @@
 - Added Streamlit chatbot wrapper in `group_project/app.py`.
 - Added RAG adapter in `group_project/group_rag/rag_adapter.py`.
 - Implemented RAGAS evaluation pipeline with A/B configs.
+- Changed Task 4/5 dense vector storage from local JSON to ChromaDB persistent storage.

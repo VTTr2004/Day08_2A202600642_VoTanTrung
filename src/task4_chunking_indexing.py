@@ -12,15 +12,14 @@ Chosen embedding model:
     local classroom demos, and produces 384-dimensional vectors.
 
 Chosen vector store:
-    Local JSON vector store at data/index/vector_store.json. This keeps the
-    assignment runnable without a Docker/Cloud Weaviate service while still
-    storing content, metadata, and dense vectors for Task 5 semantic search.
+    ChromaDB persistent store at data/index/chroma. This keeps the assignment
+    runnable locally without a Docker/Cloud Weaviate service while using a real
+    vector database API for Task 5 semantic search.
 """
 
 from __future__ import annotations
 
 import hashlib
-import json
 import math
 import os
 import re
@@ -29,7 +28,9 @@ from pathlib import Path
 
 STANDARDIZED_DIR = Path(__file__).parent.parent / "data" / "standardized"
 INDEX_DIR = Path(__file__).parent.parent / "data" / "index"
-VECTOR_STORE_PATH = INDEX_DIR / "vector_store.json"
+CHROMA_DB_DIR = INDEX_DIR / "chroma"
+CHROMA_COLLECTION_NAME = "drug_law_rag_chunks"
+VECTOR_STORE_PATH = CHROMA_DB_DIR
 
 
 # MarkdownHeaderTextSplitter keeps legal article/page/news-title structure.
@@ -43,8 +44,8 @@ CHUNKING_METHOD = "markdown_header"
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 EMBEDDING_DIM = 384
 
-# Local JSON vector store: simple, inspectable, and works offline for demos/tests.
-VECTOR_STORE = "local_json"
+# ChromaDB persistent store: local, inspectable, and works offline for demos/tests.
+VECTOR_STORE = "chromadb"
 
 
 def load_documents() -> list[dict]:
@@ -277,38 +278,88 @@ def embed_chunks(chunks: list[dict]) -> list[dict]:
     return chunks
 
 
+def _sanitize_metadata(metadata: dict) -> dict:
+    """Chroma metadata only accepts scalar values."""
+    sanitized = {}
+    for key, value in metadata.items():
+        if value is None:
+            continue
+        if isinstance(value, (str, int, float, bool)):
+            sanitized[key] = value
+        else:
+            sanitized[key] = str(value)
+    return sanitized
+
+
 def index_to_vectorstore(chunks: list[dict]) -> Path:
     """
-    Save chunks and embeddings to the local JSON vector store.
+    Save chunks and embeddings to the local ChromaDB vector store.
 
     Returns:
-        Path to the saved vector store file.
+        Path to the ChromaDB persistence directory.
     """
     INDEX_DIR.mkdir(parents=True, exist_ok=True)
-    records = []
+    CHROMA_DB_DIR.mkdir(parents=True, exist_ok=True)
+
+    try:
+        import chromadb
+    except ImportError as exc:
+        raise RuntimeError(
+            "ChromaDB is required for Task 4 indexing. "
+            "Run `pip install chromadb` or `pip install -r requirements.txt`."
+        ) from exc
+
+    client = chromadb.PersistentClient(path=str(CHROMA_DB_DIR))
+    try:
+        client.delete_collection(CHROMA_COLLECTION_NAME)
+    except Exception:
+        pass
+
+    collection = client.get_or_create_collection(
+        name=CHROMA_COLLECTION_NAME,
+        metadata={
+            "vector_store": VECTOR_STORE,
+            "embedding_model": EMBEDDING_MODEL,
+            "embedding_dim": EMBEDDING_DIM,
+            "chunking_method": CHUNKING_METHOD,
+            "chunk_size": CHUNK_SIZE,
+            "chunk_overlap": CHUNK_OVERLAP,
+        },
+    )
+
+    ids = []
+    documents = []
+    embeddings = []
+    metadatas = []
     for chunk_id, chunk in enumerate(chunks):
         if "embedding" not in chunk:
             raise ValueError("Chunk is missing embedding. Run embed_chunks() before indexing.")
-        records.append(
-            {
-                "id": chunk_id,
-                "content": chunk["content"],
-                "metadata": chunk["metadata"],
-                "embedding": chunk["embedding"],
-            }
+        ids.append(f"chunk-{chunk_id:06d}")
+        documents.append(chunk["content"])
+        embeddings.append(chunk["embedding"])
+        metadatas.append(
+            _sanitize_metadata(
+                {
+                    **chunk["metadata"],
+                    "chunk_id": chunk_id,
+                    "vector_store": VECTOR_STORE,
+                    "embedding_model": chunk["metadata"].get("embedding_model", EMBEDDING_MODEL),
+                    "embedding_dim": chunk["metadata"].get("embedding_dim", EMBEDDING_DIM),
+                }
+            )
         )
 
-    payload = {
-        "vector_store": VECTOR_STORE,
-        "embedding_model": EMBEDDING_MODEL,
-        "embedding_dim": EMBEDDING_DIM,
-        "chunking_method": CHUNKING_METHOD,
-        "chunk_size": CHUNK_SIZE,
-        "chunk_overlap": CHUNK_OVERLAP,
-        "records": records,
-    }
-    VECTOR_STORE_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    return VECTOR_STORE_PATH
+    batch_size = 500
+    for start in range(0, len(ids), batch_size):
+        end = start + batch_size
+        collection.add(
+            ids=ids[start:end],
+            documents=documents[start:end],
+            embeddings=embeddings[start:end],
+            metadatas=metadatas[start:end],
+        )
+
+    return CHROMA_DB_DIR
 
 
 def run_pipeline():

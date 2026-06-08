@@ -11,7 +11,7 @@ Streamlit app
   -> group_project/group_rag/rag_adapter.py
   -> src/task10_generation.py
   -> src/task9_retrieval_pipeline.py
-  -> Task 5 semantic + Task 6 lexical + Task 7 reranking + Task 8 fallback
+  -> Task 5 ChromaDB semantic + Task 6 lexical + Task 7 reranking + Task 8 fallback
   -> answer + citations + sources
 ```
 
@@ -37,6 +37,7 @@ The project reuses:
 
 - `src/task9_retrieval_pipeline.py` for retrieval.
 - `src/task10_generation.py` for cited generation.
+- `src/task4_chunking_indexing.py` for ChromaDB indexing at `data/index/chroma`.
 
 Generation is configured through environment variables. The selected model is Gemini 3.1 Flash Lite when a Gemini API key is available; otherwise the existing extractive fallback keeps the demo runnable.
 
