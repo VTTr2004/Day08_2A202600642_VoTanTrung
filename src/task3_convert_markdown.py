@@ -1,50 +1,25 @@
 """
 Task 3 - Convert every file in data/landing/ to Markdown.
 
-MarkItDown is used when it is installed. The fallback path keeps the task
-usable in offline class environments by converting PDF with pypdf, DOCX with
-python-docx, and crawled JSON articles directly from their markdown fields.
+Legal source files are converted with Microsoft's MarkItDown as required by
+the assignment. Crawled news JSON files are already markdown-like, so they are
+written to .md with a small metadata header.
 """
 
 import json
 from pathlib import Path
 
-try:
-    from markitdown import MarkItDown
-except ImportError:  # pragma: no cover - depends on local environment
-    MarkItDown = None
+from markitdown import MarkItDown
 
 
 LANDING_DIR = Path(__file__).parent.parent / "data" / "landing"
 OUTPUT_DIR = Path(__file__).parent.parent / "data" / "standardized"
 
 
-def _convert_with_fallback(filepath: Path) -> str:
-    """Convert a legal PDF/DOC/DOCX file to markdown-like plain text."""
-    if MarkItDown is not None:
-        result = MarkItDown().convert(str(filepath))
-        return result.text_content
-
-    suffix = filepath.suffix.lower()
-    if suffix == ".pdf":
-        from pypdf import PdfReader
-
-        reader = PdfReader(str(filepath))
-        pages = []
-        for page_number, page in enumerate(reader.pages, 1):
-            text = page.extract_text() or ""
-            if text.strip():
-                pages.append(f"## Page {page_number}\n\n{text.strip()}")
-        return "\n\n".join(pages)
-
-    if suffix in (".docx", ".doc"):
-        from docx import Document
-
-        document = Document(str(filepath))
-        paragraphs = [p.text.strip() for p in document.paragraphs if p.text.strip()]
-        return "\n\n".join(paragraphs)
-
-    raise ValueError(f"Unsupported legal document type: {filepath.suffix}")
+def _convert_legal_with_markitdown(filepath: Path) -> str:
+    """Convert a legal PDF/DOC/DOCX file with MarkItDown."""
+    result = MarkItDown().convert(str(filepath))
+    return result.text_content
 
 
 def _json_article_to_markdown(filepath: Path) -> str:
@@ -81,7 +56,7 @@ def convert_legal_docs():
     for filepath in sorted(legal_dir.iterdir()):
         if filepath.suffix.lower() in (".pdf", ".docx", ".doc"):
             print(f"Converting: {filepath.name}")
-            content = _convert_with_fallback(filepath)
+            content = _convert_legal_with_markitdown(filepath)
             output_path = output_dir / f"{filepath.stem}.md"
             output_path.write_text(content, encoding="utf-8")
             print(f"  Saved: {output_path}")

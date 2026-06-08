@@ -1,12 +1,8 @@
-## Page 1
-
-CHÍNH PHỦ
--------
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
+6/8/26, 11:52 AM about:blank
+CHÍNH PHỦ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+------- Độc lập - Tự do - Hạnh phúc
 ---------------
 Số: 105/2021/NĐ-CP Hà Nội, ngày 04 tháng 12 năm 2021
- 
 NGHỊ ĐỊNH
 QUY ĐỊNH CHI TIẾT VÀ HƯỚNG DẪN THI HÀNH MỘT SỐ ĐIỀU CỦA LUẬT PHÒNG, CHỐNG
 MA TÚY
@@ -39,11 +35,9 @@ phòng, chống tội phạm về ma túy thực hiện các hoạt động ph�
 lẫn nhau;
 b) Mỗi khu vực, địa bàn do một cơ quan chịu trách nhiệm chính, chủ trì trong công tác phòng ngừa, đấu
 tranh với tội phạm về ma túy; các cơ quan khác có trách nhiệm phối hợp theo chức năng, nhiệm vụ;
-6/8/26, 11:52 AM about:blank
 about:blank 1/55
 
-## Page 2
-
+6/8/26, 11:52 AM about:blank
 c) Việc trao đổi thông tin tội phạm, thực hiện các biện pháp nghiệp vụ đảm bảo kịp thời, chính xác, đúng
 quy định bảo vệ bí mật nhà nước;
 d) Cơ quan chuyên trách phòng, chống tội phạm về ma túy thuộc Công an nhân dân là nòng cốt trong các
@@ -82,11 +76,9 @@ thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất g�
 làm thuốc và thuốc thú y có chứa chất ma túy, tiền chất.
 4. Truy nguyên nguồn gốc ma túy là việc áp dụng các phương pháp sinh hóa, hóa lý, vật lý để xác định
 trạng thái, bản chất nguyên liệu, chữ viết, hình ảnh, lô gô trên bao bì, thùng chứa, nhãn hàng nhằm xác định
-6/8/26, 11:52 AM about:blank
 about:blank 2/55
 
-## Page 3
-
+6/8/26, 11:52 AM about:blank
 nguồn gốc nơi sản xuất, nguyên liệu, phương pháp, cách thức điều chế, sản xuất các chất ma túy phục vụ
 công tác phòng, chống tội phạm về ma túy.
 Chương II
@@ -126,11 +118,9 @@ giác và đấu tranh với tội phạm, tệ nạn ma túy.
 Điều 8. Phối hợp trao đổi thông tin
 1. Nội dung thông tin, tài liệu trao đổi giữa các cơ quan chuyên trách phòng, chống tội phạm về ma túy
 gồm:
-6/8/26, 11:52 AM about:blank
 about:blank 3/55
 
-## Page 4
-
+6/8/26, 11:52 AM about:blank
 a) Tình hình tội phạm về ma túy trên thế giới; chính sách, pháp luật của các nước về vấn đề ma túy; thông
 tin tội phạm về ma túy có liên quan đến Việt Nam do các nước và tổ chức quốc tế trao đổi; tình hình tội
 phạm về ma túy tại khu vực biên giới, cửa khẩu và trên biển.
@@ -172,11 +162,9 @@ nhân dân có trách nhiệm phối hợp trao đổi thông tin và hỗ trợ
 các trường hợp sau:
 a) Đối với các chuyên án ma túy do cơ quan chuyên trách phòng, chống tội phạm về ma túy thuộc Bộ đội
 Biên phòng, Cảnh sát biển, Hải quan xác lập đấu tranh có đối tượng liên quan đến địa bàn nội địa thì cơ
-6/8/26, 11:52 AM about:blank
 about:blank 4/55
 
-## Page 5
-
+6/8/26, 11:52 AM about:blank
 quan chuyên trách phòng, chống tội phạm về ma túy thuộc Công an nhân dân chủ động phối hợp, thực hiện
 theo yêu cầu và tiếp nhận kịp thời hồ sơ, vật chứng liên quan để điều tra, xử lý theo quy định của pháp luật;
 b) Đối với các chuyên án ma túy do cơ quan chuyên trách phòng, chống tội phạm về ma túy thuộc Công an
@@ -221,11 +209,9 @@ cán bộ tham gia. Tổ công tác tự giải thể sau khi hoàn thành nhi�
 Điều 11. Các nội dung phối hợp khác
 1. Các cơ quan chuyên trách phòng, chống tội phạm về ma túy trong phạm vi chức năng, nhiệm vụ, quyền
 hạn của mình có trách nhiệm phối hợp, hỗ trợ lẫn nhau trong công tác huấn luyện nghiệp vụ phòng, chống
-6/8/26, 11:52 AM about:blank
 about:blank 5/55
 
-## Page 6
-
+6/8/26, 11:52 AM about:blank
 tội phạm về ma túy; phối hợp thực hiện hoặc đề xuất cấp có thẩm quyền xem xét khen thưởng cho các tập
 thể, cá nhân có thành tích xuất sắc trong công tác phối hợp phòng, chống tội phạm về ma túy.
 2. Phối hợp thực hiện công tác hợp tác quốc tế trong phòng ngừa, đấu tranh với tội phạm về ma túy.
@@ -262,11 +248,9 @@ Cơ quan chuyên trách phòng, chống tội phạm về ma túy cấp trung ư
 chung và gửi báo cáo về Bộ Công an để tập hợp, báo cáo Thủ tướng Chính phủ.
 Thời điểm gửi báo cáo và thời gian tính số liệu thống kê được thực hiện theo quy định của Chính phủ về chế
 độ báo cáo của cơ quan hành chính Nhà nước.
-6/8/26, 11:52 AM about:blank
 about:blank 6/55
 
-## Page 7
-
+6/8/26, 11:52 AM about:blank
 Chương III
 KIỂM SOÁT CÁC HOẠT ĐỘNG HỢP PHÁP LIÊN QUAN ĐẾN MA TÚY
 Mục 1. KIỂM SOÁT CÁC HOẠT ĐỘNG NGHIÊN CỨU, GIÁM ĐỊNH, SẢN XUẤT, VẬN
@@ -306,11 +290,9 @@ Trường hợp có yêu cầu chỉnh lý, bổ sung tài liệu, trong thời 
 nhận được hồ sơ, cơ quan cấp phép có phiếu thông báo về việc chỉnh lý, bổ sung tài liệu, trong đó nêu rõ tài
 liệu, nội dung cần chỉnh lý, bổ sung và thời gian hoàn thành. Việc tiếp nhận, giải quyết hồ sơ được thực hiện
 trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ đã hoàn thành việc chỉnh lý, bổ sung.
-6/8/26, 11:52 AM about:blank
 about:blank 7/55
 
-## Page 8
-
+6/8/26, 11:52 AM about:blank
 Trường hợp hết thời hạn yêu cầu chỉnh lý, bổ sung hồ sơ hoặc thông tin không thống nhất giữa văn bản đề
 nghị và tài liệu chứng minh tại các văn bản, tài liệu có trong hồ sơ, cơ quan cấp phép không tiến hành giải
 quyết.
@@ -351,11 +333,9 @@ dư chất ma túy, tiền chất và biện pháp, kết quả xử lý;
 b) Công an tỉnh, thành phố nơi cơ quan nghiên cứu tiến hành bảo quản, nghiên cứu chất ma túy được cho
 phép bố trí lực lượng theo dõi, kiểm tra, giám sát việc vận chuyển, giao, nhận, bảo quản và sử dụng chất ma
 túy để nghiên cứu theo văn bản cho phép và quy định của pháp luật;
-6/8/26, 11:52 AM about:blank
 about:blank 8/55
 
-## Page 9
-
+6/8/26, 11:52 AM about:blank
 c) Trường hợp phát hiện vi phạm, lực lượng Công an nơi phát hiện vi phạm thông báo ngay cho cơ quan cấp
 phép và phối hợp ngăn chặn, xử lý theo quy định của pháp luật.
 Điều 16. Kiểm soát hoạt động sản xuất chất ma túy, tiền chất và thuốc thú y có chứa chất ma túy, tiền
@@ -398,11 +378,9 @@ chứa chất ma túy, tiền chất; trường hợp không đủ điều kiệ
 văn bản nêu rõ lý do không cấp Giấy chứng nhận đủ điều kiện sản xuất.
 3. Trình tự, thủ tục cấp lại giấy chứng nhận đủ điều kiện sản xuất chất ma túy, tiền chất và thuốc thú y có
 chứa chất ma túy, tiền chất
-6/8/26, 11:52 AM about:blank
 about:blank 9/55
 
-## Page 10
-
+6/8/26, 11:52 AM about:blank
 a) Trường hợp giấy chứng nhận bị mất, sai sót, hư hỏng hoặc có thay đổi về thông tin của cơ quan, tổ chức
 thì cơ quan, tổ chức lập 01 bộ hồ sơ đề nghị cấp lại giấy chứng nhận hoặc văn bản đề nghị cấp lại giấy
 chứng nhận (đối với trường hợp sai sót thuộc về cơ quan cấp phép) kèm theo giấy chứng nhận đã được cấp.
@@ -445,11 +423,9 @@ nhận được hồ sơ, cơ quan cấp phép có phiếu thông báo về vi�
 nội dung cần chỉnh lý, bổ sung và thời gian hoàn thành. Việc tiếp nhận, thẩm định và cấp giấy phép vận
 chuyển được thực hiện trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ đã hoàn thành việc chỉnh
 lý, bổ sung.
-6/8/26, 11:52 AM about:blank
 about:blank 10/55
 
-## Page 11
-
+6/8/26, 11:52 AM about:blank
 2. Hồ sơ đề nghị cấp giấy phép vận chuyển chất ma túy
 a) Đơn đề nghị cấp giấy phép vận chuyển chất ma túy có các nội dung sau: tên, địa chỉ tổ chức giao và tổ
 chức nhận chất ma túy; mục đích vận chuyển; tên gọi, mã CAS và mã HS, số lượng, hàm lượng chất ma
@@ -491,11 +467,9 @@ phép và phối hợp ngăn chặn xử lý theo quy định của pháp luật
 2, khoản 3 và khoản 4 Điều 16 của Nghị định này.
 2. Cơ sở kiểm nghiệm, kiểm định thuốc thú y có chứa chất ma túy, tiền chất phải đảm bảo điều kiện, tiêu
 chuẩn về cơ sở vật chất, địa điểm, người hành nghề thú y theo quy định của pháp luật về thú y đối với quản
-6/8/26, 11:52 AM about:blank
 about:blank 11/55
 
-## Page 12
-
+6/8/26, 11:52 AM about:blank
 lý thuốc thú y, được Bộ Nông nghiệp và Phát triển nông thôn chỉ định hoạt động và chịu sự theo dõi, kiểm
 tra, giám sát của cơ quan có thẩm quyền.
 3. Cơ quan, tổ chức, cá nhân tiến hành các hoạt động nghiên cứu, vận chuyển, bảo quản, tồn trữ, mua bán,
@@ -538,11 +512,9 @@ tại các Danh mục chất ma túy và tiền chất do Chính phủ quy đị
 4. Bộ Công an, Bộ Công Thương, Bộ Nông nghiệp và Phát triển nông thôn trong phạm vi nhiệm vụ, quyền
 hạn giao cho cơ quan chức năng thực hiện nhiệm vụ tiếp nhận hồ sơ, thẩm định và quyết định việc cho phép
 các hoạt động quy định tại khoản 1, khoản 2 và khoản 3 của Điều này (sau đây gọi là cơ quan cấp phép).
-6/8/26, 11:52 AM about:blank
 about:blank 12/55
 
-## Page 13
-
+6/8/26, 11:52 AM about:blank
 5. Cơ quan, tổ chức, cá nhân có hoạt động quy định tại khoản 1, khoản 2 và khoản 3 của Điều này là thương
 nhân Việt Nam và thương nhân nước ngoài hoạt động thương mại tại Việt Nam theo quy định của Luật
 Thương mại (sau đây gọi là doanh nghiệp).
@@ -583,11 +555,9 @@ quy định của Luật Công chứng.
 a) Giấy phép được cấp cho từng lần nhập khẩu, xuất khẩu và có giá trị trong thời hạn ghi trên giấy phép
 nhưng không quá 12 tháng. Trường hợp hết thời hạn ghi trong giấy phép nhưng việc nhập khẩu, xuất khẩu
 chưa thực hiện được thì doanh nghiệp đề nghị cơ quan cấp giấy phép gia hạn, không giới hạn số lần gia hạn;
-6/8/26, 11:52 AM about:blank
 about:blank 13/55
 
-## Page 14
-
+6/8/26, 11:52 AM about:blank
 b) Giấy phép được gửi cho doanh nghiệp, Chi cục Hải quan nơi làm thủ tục hải quan cho hàng nhập khẩu,
 xuất khẩu và gửi Bộ Tài chính (Tổng cục Hải quan), Bộ Công an để theo dõi, quản lý và thực hiện các yêu
 cầu thông báo tiền xuất khẩu (khi có yêu cầu);
@@ -632,11 +602,9 @@ d khoản 2 Điều 35 của Nghị định này và cấp giấy phép tạm nh
 tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây
 nghiện, dược chất hướng thần, tiền chất dùng làm thuốc và thuốc thú y có chứa chất ma túy, tiền chất theo
 quy định của Luật Quản lý ngoại thương.
-6/8/26, 11:52 AM about:blank
 about:blank 14/55
 
-## Page 15
-
+6/8/26, 11:52 AM about:blank
 3. Trong thời hạn chậm nhất là 03 ngày làm việc, kể từ ngày cấp giấy phép, cơ quan cấp phép có trách
 nhiệm gửi giấy phép tạm nhập, tái xuất, tạm xuất, tái nhập đã cấp cho Chi cục Hải quan nơi làm thủ tục hải
 quan và gửi Bộ Tài chính (Tổng cục Hải quan), Bộ Công an để phối hợp quản lý, kiểm soát.
@@ -679,11 +647,9 @@ b) Giấy phép quá cảnh có giá trị một lần theo thời hạn ghi tro
 tháng. Trường hợp hết thời hạn ghi trong giấy phép nhưng việc quá cảnh chưa thực hiện được thì doanh
 nghiệp đề nghị được gia hạn thời hạn quá cảnh. Việc gia hạn được thực hiện một lần với thời hạn không quá
 30 ngày;
-6/8/26, 11:52 AM about:blank
 about:blank 15/55
 
-## Page 16
-
+6/8/26, 11:52 AM about:blank
 c) Giấy phép quá cảnh được gửi cho doanh nghiệp đề nghị cấp phép quá cảnh, Chi cục Hải quan, Công an
 các tỉnh, thành phố trực thuộc trung ương, đơn vị Bộ đội Biên phòng, đơn vị Cảnh sát biển nơi hàng vận
 chuyển quá cảnh đi qua, Bộ Tài chính (Tổng cục Hải quan) và Bộ Công Thương để phối hợp quản lý, kiểm
@@ -730,11 +696,9 @@ quyền yêu cầu lực lượng Công an địa phương, Bộ đội Biên ph
 Hải quan tổ chức việc áp tải hàng vận chuyển quá cảnh ra khỏi lãnh thổ Việt Nam. Trong quá trình doanh
 nghiệp thực hiện thủ tục quá cảnh, các cơ quan chức năng phát hiện có dấu hiệu vi phạm thì thông báo ngay
 cho cơ quan Hải quan để phối hợp ngăn chặn và xử lý theo quy định của pháp luật.
-6/8/26, 11:52 AM about:blank
 about:blank 16/55
 
-## Page 17
-
+6/8/26, 11:52 AM about:blank
 8. Việc mang theo thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất vì mục đích điều trị bệnh cho bản
 thân người quá cảnh lãnh thổ Việt Nam không bị coi là mang hàng quá cảnh lãnh thổ Việt Nam. Người quá
 cảnh có trách nhiệm khai báo và giải trình về số lượng thuốc đã sử dụng với cơ quan Hải quan của Việt
@@ -776,11 +740,9 @@ phòng, Cảnh sát biển Việt Nam và Hải quan và các cơ sở đào t�
 về ma túy thuộc Bộ Công an, Bộ Quốc phòng, Bộ Tài chính (Tổng cục Hải quan) được nhận mẫu, quản lý
 và sử dụng mẫu chất ma túy từ Viện Khoa học hình sự Bộ Công an để huấn luyện nghiệp vụ phòng, chống
 tội phạm về ma túy;
-6/8/26, 11:52 AM about:blank
 about:blank 17/55
 
-## Page 18
-
+6/8/26, 11:52 AM about:blank
 Các đơn vị huấn luyện động vật nghiệp vụ để phát hiện ma túy thuộc Bộ Công an (Bộ Tư lệnh Cảnh sát cơ
 động), Bộ Quốc phòng, Bộ Tài chính (Tổng cục Hải quan) được nhận mẫu, quản lý và sử dụng mẫu chất ma
 túy từ Viện Khoa học hình sự, Bộ Công an để huấn luyện động vật nghiệp vụ.
@@ -823,11 +785,9 @@ Nghị định này và quy định của pháp luật có liên quan.
 tiền chất vì mục đích quốc phòng, an ninh
 1. Đơn vị được tiến hành các hoạt động hợp pháp liên quan đến ma túy vì mục đích quốc phòng, an ninh
 được quy định tại Điều 23 của Nghị định này có trách nhiệm:
-6/8/26, 11:52 AM about:blank
 about:blank 18/55
 
-## Page 19
-
+6/8/26, 11:52 AM about:blank
 a) Xây dựng kế hoạch tổ chức thực hiện các hoạt động bảo quản, tồn trữ, phân phối, sử dụng, xử lý, trao đổi
 chất ma túy, tiền chất trong cơ quan đảm bảo tuyệt đối an toàn và phải chịu trách nhiệm trước pháp luật về
 việc nhầm lẫn, thất thoát các chất đó;
@@ -864,11 +824,9 @@ Tài chính cho mua để sử dụng); phối hợp với đại diện đối 
 a) Việc lấy mẫu chất ma túy theo quy định tại điểm b khoản 1 của Điều này để trưng cầu giám định phục vụ
 công tác điều tra, truy tố, xét xử các vụ án về tội phạm ma túy thực hiện theo quy định của Bộ luật Tố tụng
 hình sự;
-6/8/26, 11:52 AM about:blank
 about:blank 19/55
 
-## Page 20
-
+6/8/26, 11:52 AM about:blank
 b) Hằng năm hoặc khi có nhu cầu bổ sung mẫu chất ma túy phục vụ công tác giám định, huấn luyện nghiệp
 vụ phòng, chống tội phạm về ma túy và huấn luyện động vật nghiệp vụ, Viện trưởng Viện Khoa học hình sự
 đề xuất Bộ trưởng Bộ Công an phê duyệt kế hoạch lấy mẫu chất ma túy là sản phẩm từ các hoạt động hợp
@@ -910,11 +868,9 @@ hình sự, Bộ Công an.
 hiện các quy định về hoạt động bảo quản, phân phối, sử dụng mẫu chất ma túy vì mục đích quốc phòng, an
 ninh theo quy định tại Điều 26 của Nghị định này.
 Điều 29. Quy định về xử lý mẫu chất ma túy vì mục đích quốc phòng, an ninh
-6/8/26, 11:52 AM about:blank
 about:blank 20/55
 
-## Page 21
-
+6/8/26, 11:52 AM about:blank
 1. Định kỳ hằng năm, Viện Khoa học hình sự, Bộ Công an tiến hành kiểm tra, đánh giá chất lượng mẫu chất
 ma túy còn tồn trữ tại các kho lưu mẫu chất ma túy trung gian và tự kiểm tra, đánh giá chất lượng mẫu chất
 ma túy còn tồn trữ tại kho lưu trữ mẫu chất ma túy quốc gia.
@@ -958,11 +914,9 @@ phân phối, sử dụng, tiêu hủy và tồn kho mẫu chất ma túy gửi 
 tối cao và Tòa án nhân dân tối cao.
 4. Kinh phí thực hiện việc nhập khẩu, lấy mẫu, xử lý mẫu chất ma túy chi từ ngân sách nhà nước thường
 xuyên của Bộ Công an. Kinh phí đảm bảo các điều kiện bảo quản mẫu chất ma túy chi từ ngân sách nhà
-6/8/26, 11:52 AM about:blank
 about:blank 21/55
 
-## Page 22
-
+6/8/26, 11:52 AM about:blank
 nước thường xuyên của các bộ, ngành, địa phương.
 Điều 31. Trách nhiệm kiểm tra, giám sát, xử lý vi phạm
 1. Các đơn vị có hoạt động hợp pháp liên quan đến ma túy vì mục đích quốc phòng, an ninh chịu trách
@@ -1004,11 +958,9 @@ chất này.
 4. Khi chất ma túy, tiền chất, thuốc thú y có chứa chất ma túy, tiền chất không thuộc quy định của Điều 21
 Luật Phòng, chống ma túy cần xử lý thì đơn vị quản lý phải báo cáo cơ quan cấp trên trực tiếp, ghi rõ lý do,
 phương pháp xử lý. Việc xử lý chỉ được thực hiện khi cơ quan cấp trên có thẩm quyền phê duyệt bằng văn
-6/8/26, 11:52 AM about:blank
 about:blank 22/55
 
-## Page 23
-
+6/8/26, 11:52 AM about:blank
 bản. Thủ trưởng đơn vị phải thành lập hội đồng xử lý và lập biên bản xử lý, báo cáo lên cơ quan quản lý cấp
 trên trực tiếp và gửi Bộ Công an để theo dõi, quản lý.
 Điều 34. Lập dự trù
@@ -1051,11 +1003,9 @@ chất.
 a) Phối hợp kiểm soát trong thông báo tiền xuất khẩu đối với hoạt động nhập khẩu các tiền chất từ nước
 ngoài vào Việt Nam (áp dụng đối với hoạt động nhập khẩu từ các nước tham gia Điều 12 Công ước năm
 1988 của Liên hợp quốc về chống buôn bán bất hợp pháp các chất ma túy và các chất hướng thần):
-6/8/26, 11:52 AM about:blank
 about:blank 23/55
 
-## Page 24
-
+6/8/26, 11:52 AM about:blank
 Trên cơ sở giấy phép nhập khẩu do các bộ chức năng cấp gửi đến Bộ Công an hoặc thông tin giấy phép
 nhập khẩu trên Cổng thông tin một cửa quốc gia, trong thời hạn chậm nhất là 02 ngày làm việc, kể từ ngày
 nhận được thông báo của nước xuất khẩu, Bộ Công an có trách nhiệm trả lời nước xuất khẩu về tính hợp
@@ -1102,11 +1052,9 @@ dõi;
 phạm vi chức năng, nhiệm vụ và quyền hạn được giao thực hiện việc cấp giấy phép nhập khẩu, xuất khẩu,
 tạm nhập, tái xuất, tạm xuất, tái nhập, quá cảnh chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần,
 thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm
-6/8/26, 11:52 AM about:blank
 about:blank 24/55
 
-## Page 25
-
+6/8/26, 11:52 AM about:blank
 thuốc và thuốc thú y có chứa chất ma túy, tiền chất, trong thời hạn chậm nhất là 03 ngày làm việc, kể từ
 ngày cấp giấy phép, cơ quan cấp phép có trách nhiệm gửi giấy phép nhập khẩu, xuất khẩu, tạm nhập, tái
 xuất, tạm xuất, tái nhập, quá cảnh cho cơ quan, tổ chức, cá nhân đề nghị cấp phép, Chi cục Hải quan nơi
@@ -1150,11 +1098,9 @@ vi phạm khi nhận được nguồn tin, tài liệu hoặc phát hiện nhữ
 động hợp pháp liên quan đến ma túy.
 d) Bộ Tài chính (Tổng cục Hải quan) đảm bảo kết nối dữ liệu và vận hành của Trung tâm dữ liệu với Cổng
 thông tin một cửa quốc gia.
-6/8/26, 11:52 AM about:blank
 about:blank 25/55
 
-## Page 26
-
+6/8/26, 11:52 AM about:blank
 Bộ Tài chính (Tổng cục Hải quan) cung cấp tài khoản và mật khẩu riêng cho Trung tâm dữ liệu để truy cập,
 cập nhật, khai thác và trao đổi thông tin về giấy phép xuất khẩu, nhập khẩu, tạm nhập, tái xuất, tạm xuất, tái
 nhập, quá cảnh tại Cổng thông tin một cửa quốc gia.
@@ -1198,11 +1144,9 @@ b) Tổ Công tác liên ngành phối hợp kiểm soát các hoạt động h�
 phố có nhiệm vụ: Tổ chức tuyên truyền, hướng dẫn, tập huấn, theo dõi, kiểm tra, giám sát các cơ quan, tổ
 chức, cá nhân trên địa bàn tỉnh, thành phố thực hiện các văn bản quy phạm pháp luật về kiểm soát các hoạt
 động hợp pháp liên quan đến ma túy nhằm phòng ngừa, ngăn chặn việc lợi dụng các hoạt động đó vào mục
-6/8/26, 11:52 AM about:blank
 about:blank 26/55
 
-## Page 27
-
+6/8/26, 11:52 AM about:blank
 đích bất hợp pháp. Phát hiện, ngăn chặn và kiến nghị các cấp có thẩm quyền xử lý các hành vi vi phạm theo
 quy định của pháp luật.
 Chương IV
@@ -1237,11 +1181,9 @@ c) Chi phí đề nghị cơ quan chuyên môn thực hiện xét nghiệm chấ
 2. Kinh phí cho việc xác định tình trạng nghiện khi phát hiện người sử dụng trái phép chất ma túy thuộc
 trường hợp phải xác định tình trạng nghiện theo quy định tại khoản 8 Điều 27 của Luật Phòng, chống ma
 túy gồm:
-6/8/26, 11:52 AM about:blank
 about:blank 27/55
 
-## Page 28
-
+6/8/26, 11:52 AM about:blank
 a) Chi phí đưa người bị đề nghị xác định tình trạng nghiện đến nơi thực hiện xác định tình trạng nghiện và
 chi phí ăn, ở của người bị đề nghị xác định tình trạng nghiện trong thời gian theo dõi để xác định tình trạng
 nghiện (trừ trường hợp người bị tạm giữ để xác định tình trạng nghiện);
@@ -1279,11 +1221,9 @@ d) Tài liệu, biên bản về hành vi sử dụng trái phép chất ma túy
 ma túy trước đây hoặc cai nghiện của người vi phạm (nếu có);
 đ) Bản tường trình của người sử dụng trái phép chất ma túy theo Mẫu số 06 tại Phụ lục ban hành kèm theo
 Nghị định này;
-6/8/26, 11:52 AM about:blank
 about:blank 28/55
 
-## Page 29
-
+6/8/26, 11:52 AM about:blank
 e) Trường hợp người đó thuộc đối tượng quy định tại khoản 1 Điều 27 của Luật Phòng, chống ma túy thì
 phải có kết quả xác định tình trạng không nghiện ma túy của đối tượng.
 3. Công an cấp xã có trách nhiệm giúp Chủ tịch Ủy ban nhân dân cấp xã thu thập tài liệu để lập Hồ sơ quản
@@ -1323,11 +1263,9 @@ ban nhân dân cấp xã nơi phát hiện hành vi sử dụng trái phép ch�
 1. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được thông báo về hành vi sử dụng trái phép chất ma
 túy và kết quả xét nghiệm chất ma túy trong cơ thể, Chủ tịch Ủy ban nhân dân cấp xã nơi người sử dụng trái
 phép chất ma túy cư trú ổn định hoặc nơi phát hiện hành vi sử dụng trái phép chất ma túy đối với người
-6/8/26, 11:52 AM about:blank
 about:blank 29/55
 
-## Page 30
-
+6/8/26, 11:52 AM about:blank
 không có nơi cư trú ổn định ra quyết định và tổ chức quản lý người sử dụng trái phép chất ma túy theo quy
 định tại khoản 2, khoản 4 Điều 23 của Luật Phòng, chống ma túy.
 2. Quyết định áp dụng biện pháp quản lý người sử dụng trái phép chất ma túy thực hiện theo Mẫu số 07 tại
@@ -1367,11 +1305,9 @@ nhân thân;
 d) Động viên, giúp đỡ để người sử dụng trái phép chất ma túy tham gia các hoạt động cộng đồng, hoạt động
 tự quản, hoạt động thể dục, thể thao, các phong trào giúp ích cho xã hội để nâng cao sức khỏe, kỹ năng
 sống, phòng ngừa các hành vi vi phạm pháp luật.
-6/8/26, 11:52 AM about:blank
 about:blank 30/55
 
-## Page 31
-
+6/8/26, 11:52 AM about:blank
 3. Đối với người sử dụng trái phép chất ma túy dưới 18 tuổi thì phải đảm bảo việc học văn hóa và những
 người được phân công tư vấn, động viên, giáo dục, giúp đỡ phải có sự tham gia của giáo viên nơi người đó
 đang học hoặc đội thiếu niên tiền phong, đoàn thanh niên.
@@ -1411,11 +1347,9 @@ vào cơ sở dữ liệu về cư trú, cơ sở dữ liệu quốc gia về d�
 1. Chủ tịch Ủy ban nhân dân cấp xã nơi đang quản lý ra Quyết định dừng quản lý người sử dụng trái phép
 chất ma túy đối với các trường hợp quy định tại khoản 5 Điều 23 của Luật Phòng, chống ma túy theo Mẫu
 số 09 tại Phụ lục ban hành kèm theo Nghị định này.
-6/8/26, 11:52 AM about:blank
 about:blank 31/55
 
-## Page 32
-
+6/8/26, 11:52 AM about:blank
 2. Chủ tịch Ủy ban nhân dân cấp xã nơi quản lý ra Quyết định chấm dứt quản lý người sử dụng trái phép
 chất ma túy trong trường hợp hết thời hạn quản lý mà không phát hiện người bị quản lý có hành vi sử dụng
 trái phép chất ma túy theo Mẫu số 10 tại Phụ lục ban hành kèm theo Nghị định này.
@@ -1455,11 +1389,9 @@ này.
 quản lý người sử dụng trái phép chất ma túy.
 7. Hướng dẫn Công an cấp xã lập danh sách người sử dụng trái phép chất ma túy.
 Điều 51. Bộ Quốc phòng
-6/8/26, 11:52 AM about:blank
 about:blank 32/55
 
-## Page 33
-
+6/8/26, 11:52 AM about:blank
 1. Chỉ đạo cơ quan chuyên trách phòng, chống tội phạm về ma túy thuộc Bộ đội Biên phòng chủ trì thực
 hiện các hoạt động phòng ngừa; ngăn chặn ma túy thẩm lậu vào Việt Nam; kịp thời phát hiện, bắt giữ tội
 phạm về ma túy xảy ra ở khu vực biên giới theo quy định của pháp luật; thường xuyên phối hợp chặt chẽ
@@ -1501,11 +1433,9 @@ luật có liên quan.
 2. Cấp, thu hồi giấy phép các hoạt động quy định tại khoản 2 Điều 19 và thực hiện quy định về phối hợp
 kiểm soát các hoạt động hợp pháp liên quan đến ma túy tại Nghị định này.
 Điều 55. Bộ Nông nghiệp và Phát triển nông thôn
-6/8/26, 11:52 AM about:blank
 about:blank 33/55
 
-## Page 34
-
+6/8/26, 11:52 AM about:blank
 1. Thực hiện chức năng quản lý nhà nước về thuốc thú y có chứa chất ma túy, tiền chất theo quy định của
 Luật Phòng, chống ma túy, Luật Thú y và các văn bản quy phạm pháp luật có liên quan.
 2. Ban hành danh mục thuốc thú y có chứa chất ma túy, tiền chất và danh mục chất ma túy, tiền chất là
@@ -1545,25 +1475,38 @@ chức, cá nhân đã nộp hồ sơ có yêu cầu thực hiện theo quy đ�
 nghiện, thuốc hướng thần qua lãnh thổ Việt Nam đã tiếp nhận trước ngày Nghị định này có hiệu lực thi hành
 thì tiếp tục giải quyết theo quy định của Nghị định số 58/2003/NĐ-CP ngày 29 tháng 5 năm 2003 của Chính
 phủ quy định về kiểm soát nhập khẩu, xuất khẩu, vận chuyển quá cảnh lãnh thổ Việt Nam chất ma túy, tiền
-6/8/26, 11:52 AM about:blank
 about:blank 34/55
 
-## Page 35
-
+6/8/26, 11:52 AM about:blank
 chất, thuốc gây nghiện, thuốc hướng thần tại thời điểm tiếp nhận, trừ trường hợp cơ quan, tổ chức đã nộp hồ
 sơ có yêu cầu thực hiện theo quy định của Nghị định này.
 Điều 59. Trách nhiệm thi hành
 Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân
 dân các tỉnh, thành phố trực thuộc trung ương và tổ chức, cá nhân có liên quan chịu trách nhiệm hướng dẫn
 và thi hành Nghị định này.
- 
- 
-Nơi nhận:
-- Ban Bí thư Trung ương Đảng;- Thủ tướng, các Phó Thủ tướng Chính phủ;- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;- Văn phòng Trung ương và các Ban của Đảng;- Văn phòng Tổng Bí thư;- Văn phòng Chủ tịch nước;- Hội đồng Dân tộc và các Ủy ban của Quốc hội;- Văn phòng Quốc hội;- Tòa án nhân dân tối cao;- Viện kiểm sát nhân dân tối cao;- Ủy ban Giám sát tài chính Quốc gia;- Kiểm toán nhà nước;- Ngân hàng Chính sách xã hội;- Ngân hàng Phát triển Việt Nam;- Ủy ban trung ương Mặt trận Tổ quốc Việt Nam;- Cơ quan trung ương của các đoàn thể;- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT,các Vụ, Cục, đơn vị trực thuộc, Công báo;- Lưu: VT, KGVX (2b).
 TM. CHÍNH PHỦ
 THỦ TƯỚNG
-Phạm Minh Chính
- 
+Nơi nhận:
+- Ban Bí thư Trung ương Đảng;
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;
+- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;
+- Văn phòng Trung ương và các Ban của Đảng;
+- Văn phòng Tổng Bí thư; Phạm Minh Chính
+- Văn phòng Chủ tịch nước;
+- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
+- Văn phòng Quốc hội;
+- Tòa án nhân dân tối cao;
+- Viện kiểm sát nhân dân tối cao;
+- Ủy ban Giám sát tài chính Quốc gia;
+- Kiểm toán nhà nước;
+- Ngân hàng Chính sách xã hội;
+- Ngân hàng Phát triển Việt Nam;
+- Ủy ban trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan trung ương của các đoàn thể;
+- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT,
+các Vụ, Cục, đơn vị trực thuộc, Công báo;
+- Lưu: VT, KGVX (2b).
 PHỤ LỤC
 DANH MỤC BIỂU MẪU
 (Kèm theo Nghị định số: 105/2021/NĐ-CP ngày 04 tháng 12 năm 2021 của Chính phủ)
@@ -1581,220 +1524,235 @@ túy
 túy
 10. Mẫu số 09 Quyết định dừng quản lý người sử dụng trái phép chất ma túy
 11. Mẫu số 10 Quyết định chấm dứt quản lý người sử dụng trái phép chất ma túy
-6/8/26, 11:52 AM about:blank
 about:blank 35/55
 
-## Page 36
-
+6/8/26, 11:52 AM about:blank
 Mẫu số 01
-........................ 1
-........................ 2
--------
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+........................ 1 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
----------------
-Số: ............ ........3, ngày.... tháng.... năm.......
- 
-ĐƠN ĐỀ NGHỊ CẤP GIẤY PHÉP NHẬP KHẨU (XUẤT KHẨU)........... 4
-Kính gửi: ................................................... 5
-Tên doanh nghiệp: ........................................................................................................... 2
+2 ---------------
+........................
+-------
+Số: ............ ........ 3 , ngày.... tháng.... năm.......
+4
+ĐƠN ĐỀ NGHỊ CẤP GIẤY PHÉP NHẬP KHẨU (XUẤT KHẨU)...........
+5
+Kính gửi: ...................................................
+2
+Tên doanh nghiệp: ...........................................................................................................
 Quyết định hoặc Giấy phép thành lập số: ........................................................................
 Giấy chứng nhận đăng kí kinh doanh số: ........................................................................
-Do .................................................... 1 Cấp ngày: .............................................................
+1
+Do .................................................... Cấp ngày: .............................................................
 Nơi đặt trụ sở chính: ........................................................................................................
 Số điện thoại: .................................................. Số Fax: ...................................................
 Mặt hàng, ngành nghề kinh doanh: .................................................................................
-Đề nghị ............................. 5 cấp giấy phép cho nhập khẩu (xuất khẩu) ........ 4 Mục đích nhập khẩu (xuất
-khẩu)6: .............................................
-Tên, địa chỉ nơi sản xuất 4: ................................................................................................
-STT Tên thương mại/ Tên
+5 4
+Đề nghị ............................. cấp giấy phép cho nhập khẩu (xuất khẩu) ........ Mục đích nhập khẩu (xuất
+6
+khẩu) : .............................................
+4
+Tên, địa chỉ nơi sản xuất : ................................................................................................
+STT Tên thương mại/ Tên Mã CAS Mã HS ĐVT Số lượng Hàm lượng
 hóa học
-Mã CAS Mã HS ĐVT Số lượngHàm lượng
-1       
-2       
+1
+2
 - Tên cửa khẩu làm thủ tục nhập khẩu (xuất khẩu): ...........................................................
 - Phương tiện và điều kiện bảo đảm an toàn vận chuyển: .................................................
 - Thời gian và số lần thực hiện nhập (xuất) khẩu: ..............................................................
-- Hồ sơ kèm theo gồm (Các tài liệu theo quy định tại Điều 20 của Nghị định số /NĐ-CP ngày   tháng   năm
+- Hồ sơ kèm theo gồm (Các tài liệu theo quy định tại Điều 20 của Nghị định số /NĐ-CP ngày tháng năm
 2021 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phòng, chống ma túy):
- 
-6/8/26, 11:52 AM about:blank
 about:blank 36/55
 
-## Page 37
-
+6/8/26, 11:52 AM about:blank
 GIÁM ĐỐC DOANH NGHIỆP
 (Ký tên và đóng dấu)
 ____________________
 1 Cơ quan chủ quản (nơi cấp Quyết định thành lập doanh nghiệp).
-2 Tên doanh nghiệp.
+2
+Tên doanh nghiệp.
 3 Địa danh nơi doanh nghiệp đăng ký hoạt động.
 4 Chất ma túy, tiền chất, thuốc thú y có chứa chất ma túy, tiền chất.
-5 Cơ quan cấp phép thuộc Bộ Công an, Bộ Công Thương, Bộ Nông nghiệp và Phát triển nông thôn.
+5
+Cơ quan cấp phép thuộc Bộ Công an, Bộ Công Thương, Bộ Nông nghiệp và Phát triển nông thôn.
 6 Mục đích: sử dụng, kinh doanh, nghiên cứu, kiểm nghiệm, khảo nghiệm và mục đích khác (nêu chi tiết).
- 
 Mẫu số 02A
-........................ 1
-........................ 2
--------
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+........................ 1 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
----------------
-Số: ...../năm/GPNK-tên viết tắt3 Hà Nội, ngày.... tháng.... năm.......
- 
-GIẤY PHÉP NHẬP KHẨU (XUẤT KHẨU).............. 4
-Thủ trưởng ...................................... 2
+2 ---------------
+........................
+-------
+Số: ...../năm/GPNK-tên viết tắt 3 Hà Nội, ngày.... tháng.... năm.......
+4
+GIẤY PHÉP NHẬP KHẨU (XUẤT KHẨU)..............
+2
+Thủ trưởng ......................................
 Căn cứ Luật Phòng, chống ma túy ngày 30 tháng 3 năm 2021;
 Căn cứ Nghị định số... /NĐ-CP ngày ...tháng... năm 2021 của Chính phủ quy định chi tiết và hướng dẫn thi
 hành một số điều của Luật Phòng, chống ma túy;
-Căn cứ Quyết định số:... ngày...tháng...năm ... của ...1 về việc quy định chức năng, nhiệm vụ, quyền hạn và
-cơ cấu tổ chức của ...2
-Xét đơn đề nghị cấp Giấy phép nhập khẩu (xuất khẩu)...4 tại hồ sơ số ...... ngày...tháng...năm... của         5
-Theo đề nghị của ............................................................................................................  6
+1
+Căn cứ Quyết định số:... ngày...tháng...năm ... của ... về việc quy định chức năng, nhiệm vụ, quyền hạn và
+2
+cơ cấu tổ chức của ...
+4 5
+Xét đơn đề nghị cấp Giấy phép nhập khẩu (xuất khẩu)... tại hồ sơ số ...... ngày...tháng...năm... của
+6
+Theo đề nghị của ............................................................................................................
 QUYẾT ĐỊNH:
-Điều 1. Công ty....... 7 trụ sở tại: .................. điện thoại: ..............., số fax: ................, Giấy phép kinh doanh
+7
+Điều 1. Công ty....... trụ sở tại: .................. điện thoại: ..............., số fax: ................, Giấy phép kinh doanh
 số: ............................ do: ...................... cấp ngày .... tháng..... năm...... , được phép:
-1. Nhập khẩu (xuất khẩu): ..............................................................................................  4
-6/8/26, 11:52 AM about:blank
+4
+1. Nhập khẩu (xuất khẩu): ..............................................................................................
 about:blank 37/55
 
-## Page 38
-
-2. Mục đích nhập khẩu (xuất khẩu)8: ................................................................................
+6/8/26, 11:52 AM about:blank
+8
+2. Mục đích nhập khẩu (xuất khẩu) : ................................................................................
 3. Cửa khẩu nhập khẩu (xuất khẩu): ................................................................................
 4. Phương tiện và điều kiện vận chuyển: .........................................................................
 5. Thời gian thực hiện nhập khẩu (xuất khẩu) dự kiến: ...................................................
 6. Số lần thực hiện nhập khẩu (xuất khẩu): .....................................................................
-Điều 2. Công ty ........... 7 có trách nhiệm thực hiện đúng quy định của Luật Phòng, chống ma túy; Nghị định
+7
+Điều 2. Công ty ........... có trách nhiệm thực hiện đúng quy định của Luật Phòng, chống ma túy; Nghị định
 số... /NĐ-CP ngày ...tháng... năm 2021 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều
-của Luật Phòng, chống ma túy và ....9
+9
+của Luật Phòng, chống ma túy và ....
 Điều 3. Giấy phép này có giá trị đến hết ngày...tháng... năm..../.
- 
-Nơi nhận:
+2
+THỦ TRƯỞNG CƠ QUAN CẤP PHÉP
+Nơi nhận: (Ký tên và đóng dấu)
 - Như Điều 2;
-- Bộ Công an 10;
+10
+- Bộ Công an ;
 - Bộ Tài chính (Tổng cục Hải quan);
-- Chi cục Hải quan...11;
-- Lưu: VT,2
-THỦ TRƯỞNG CƠ QUAN CẤP PHÉP 2
-(Ký tên và đóng dấu)
- 
+11
+- Chi cục Hải quan... ;
+2
+- Lưu: VT,
 Phụ lục
 DANH MỤC
 (Kèm theo Giấy phép số:... ngày... tháng...năm...)
-STT Tên thương mại/ Tên
+STT Tên thương mại/ Tên Mã CAS Mã HS ĐVT Số lượng Hàm lượng
 hóa học
-Mã CAS Mã HS ĐVT Số lượng Hàm lượng
-1       
-2       
+1
+2
 ____________________
 1 Cơ quan chủ quản (Bộ Công an, Bộ Công Thương, Bộ Nông nghiệp và Phát triển nông thôn).
-2 Cơ quan cấp phép.
+2
+Cơ quan cấp phép.
 3 Viết tắt của loại hàng nhập khẩu/xuất khẩu (chất ma túy gồm GN, HT; TC; TTY).
 4 Chất ma túy (ghi rõ chất gây nghiện hoặc chất hướng thần), tiền chất, thuốc thú y có chứa chất ma túy, tiền
 chất.
-5 Ghi theo số tiếp nhận của Cơ quan cấp phép.
-6/8/26, 11:52 AM about:blank
+5
+Ghi theo số tiếp nhận của Cơ quan cấp phép.
 about:blank 38/55
 
-## Page 39
-
+6/8/26, 11:52 AM about:blank
 6 Thủ trưởng đơn vị tiếp nhận, thẩm định trực tiếp được Cơ quan cấp phép giao nhiệm vụ.
-7 Tên doanh nghiệp đề nghị cấp Giấy phép nhập khẩu.
+7
+Tên doanh nghiệp đề nghị cấp Giấy phép nhập khẩu.
 8 Mục đích: sử dụng, kinh doanh, nghiên cứu, kiểm nghiệm, khảo nghiệm và mục đích khác (nêu chi tiết).
 9 Tên văn bản quy định khác có liên quan của cơ quan quản lý chuyên ngành (chất ma túy, tiền chất, thuốc
 thú y có chứa chất ma túy, tiền chất).
-10 Cơ quan được giao nhiệm vụ đầu mối phối hợp kiểm soát.
+10
+Cơ quan được giao nhiệm vụ đầu mối phối hợp kiểm soát.
 11 Ghi rõ tên Chi cục Hải quan nơi làm thủ tục nhập khẩu (xuất khẩu).
- 
 Mẫu số 02B
-........................ 1
-........................ 2
--------
-SOCIALIST REPUBLIC OF VIETNAM
+........................ 1 SOCIALIST REPUBLIC OF VIETNAM
 Independent - Freedom - Happiness
----------------
-Number:   /Year/GPNK-
-abbreviations3
-Ha Noi, date...... month..... year......
- 
-IMPORT (EXPORT) LICENSE................ 4
-Director/General of......................................... 2
+2 ---------------
+........................
+-------
+Number: /Year/GPNK- Ha Noi, date...... month..... year......
+3
+abbreviations
+4
+IMPORT (EXPORT) LICENSE................
+2
+Director/General of.........................................
 Pursuant to the Law on Drug Prevention and Control of March 30, 2021;
 Pursuant to the Government’s Decree No. /2021/ND-CP of..., 2021, detailing and guiding the
 implementation of a number of articles of the Law on Drug Prevention and Control
 Pursuant to Decision No:... date...month...year... of... on defining functions, tasks, powers and organizational
-structure of...2
-Consider the Application for an Import (Export) License........ 4 in the application file No ........
-date...month...year...of......................... 5
-At the proposal of the ................................................ 6
+2
+structure of...
+4
+Consider the Application for an Import (Export) License........ in the application file No ........
+5
+date...month...year...of.........................
+6
+At the proposal of the ................................................
 DECISION
-Article 1. Company ......... 7head office at: ................................... telephone: ........................, fax number:
+7
+Article 1. Company ......... head office at: ................................... telephone: ........................, fax number:
 ............................, The business license number: ................ Issuing Office: .................... Issuing date.........
 month........... year......... , allowed:
-1. Import (Export): ........................................................................................................... 4
-2. Purpose8: ......................................................................................................................
-6/8/26, 11:52 AM about:blank
+4
+1. Import (Export): ...........................................................................................................
+8
+2. Purpose : ......................................................................................................................
 about:blank 39/55
 
-## Page 40
-
+| 6/8/26, 11:52 AM |     |     | about:blank |     |     |     |
+| ---------------- | --- | --- | ----------- | --- | --- | --- |
 3. Import (Export) border gate: .........................................................................................
 4. Means and conditions of transportation: ......................................................................
 5. Estimated time of import (export): ................................................................................
 6. Number of times made import (export): ........................................................................
-Article 2. Company ........... 7 is responsible for strictly complying with the provisions of the Law on Drug
+7
+Article 2. Company ...........   is responsible for strictly complying with the provisions of the Law on Drug
 Prevention and Control; Decree No.... /ND-CP dated ...month... 2021 of the Government detailing and
-guiding the implementation of a number of articles of the Law on Drug Prevention and Control and ....9
+9
+guiding the implementation of a number of articles of the Law on Drug Prevention and Control and ....
 Article 3. This license is valid until the end of the day...month...year..../.
- 
-Recipients:
+
+| Recipients: |     |     | HEAD OF LICENSING AGENCY  |     |     | 2   |
+| ----------- | --- | --- | ------------------------- | --- | --- | --- |
 - As Article 2;
+(signed and sealed)
 - Police;
 - Ministry of Finance (General Department of
 Customs);
 - Customs Branch...;
-- Archives: office storage,2
-HEAD OF LICENSING AGENCY 2
-(signed and sealed)
- 
+| - Archives: office storage, | 2   |     |     |     |     |     |
+| --------------------------- | --- | --- | --- | --- | --- | --- |
+
 Annex
 LIST OF SUBSTANCES
 (Enclosed with License No:... date... month )
-Number Tradenames/
-Chemical name
-CAS
-number HS numberUnit Quantity Content
-1       
-2       
+| Tradenames/   |     | CAS       |     |               |     |         |
+| ------------- | --- | --------- | --- | ------------- | --- | ------- |
+| Number        |     | HS number |     | Unit Quantity |     | Content |
+| Chemical name |     | number    |     |               |     |         |
+| 1             |     |           |     |               |     |         |
+| 2             |     |           |     |               |     |         |
 ____________________
 1 Managing agency (Ministry of Public Security, Ministry of Industry and Trade, Ministry of Agriculture
 and Rural Development)
 2 Licensing authorities
-3 Abbreviation for import/export goods (drugs include GN, HT; TC; TTY)
+3  Abbreviation for import/export goods (drugs include GN, HT; TC; TTY)
 4 Narcotic substances (specify narcotic or psychotropic substances), precursors, veterinary drugs containing
 narcotic substances, precursors
 5 Record according to the receiving number of the Licensing Authority
-6 The head of the receiving and appraising unit is assigned the task by the licensing agency
-6/8/26, 11:52 AM about:blank
+6  The head of the receiving and appraising unit is assigned the task by the licensing agency
 about:blank 40/55
 
-## Page 41
-
+6/8/26, 11:52 AM about:blank
 7 Name of enterprise applying for import license
-8 Purpose: use, busmess, research, testing, testing and other purposes (specify)
+8
+Purpose: use, busmess, research, testing, testing and other purposes (specify)
 9 Name of other relevant regulatory documents of specialized management agencies (narcotics, precursors,
 veterinary drugs containing narcotic substances, precursors).
- 
 Mẫu số 03
-........................ 1
-........................ 2
--------
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+........................ 1 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
----------------
- ........3, ngày.... tháng.... năm.......
- 
+2 ---------------
+........................
+-------
+........
+3
+, ngày.... tháng.... năm.......
 PHIẾU KẾT QUẢ
 Xét nghiệm chất ma túy trong cơ thể
 Tóm tắt nội dung sự việc:
@@ -1807,24 +1765,24 @@ Tóm tắt nội dung sự việc:
 ............................................................................................................................................
 ............................................................................................................................................
 ............................................................................................................................................
-Để xác định hành vi sử dụng trái phép chất ma túy,........... 2 thực hiện xét nghiệm chất ma túy trong cơ thể
+2
+Để xác định hành vi sử dụng trái phép chất ma túy,........... thực hiện xét nghiệm chất ma túy trong cơ thể
 đối với:
 Họ và tên: ............................................ Giới tính: ................................
 Tên gọi khác ........................................................................................................................
 Ngày, tháng, năm sinh: .........../........./............ Nơi sinh: .....................................................
 Quê quán: ...........................................................................................................................
 Nơi thường trú/tạm trú: .......................................................................................................
-6/8/26, 11:52 AM about:blank
 about:blank 41/55
 
-## Page 42
-
+6/8/26, 11:52 AM about:blank
 Nơi ở hiện tại: .....................................................................................................................
 Số CMND/CCCD/Hộ chiếu: ................. ; ngày cấp: ...../..../....; nơi cấp: .............................
 Dân tộc: ................Tôn giáo: ..............Trình độ học vấn: .........................
 Nghề nghiệp: ......................................................................................................................
 Nơi làm việc/học tập: .........................................................................................................
-1. Người tiến hành xét nghiệm:..............; chức vụ............ đơn vị .................4
+4
+1. Người tiến hành xét nghiệm:..............; chức vụ............ đơn vị .................
 2. Biện pháp xét nghiệm: ...................................................................................................
 Các bước tiến hành: ..........................................................................................................
 ............................................................................................................................................
@@ -1843,40 +1801,39 @@ Kết quả:
 ............................................................................................................................................
 ............................................................................................................................................
 ............................................................................................................................................
-3. Căn cứ vào kết quả trên, kết luận: .............................................................................. 5;
+5
+3. Căn cứ vào kết quả trên, kết luận: .............................................................................. ;
 □ Dương tính với chất ma túy trong cơ thể.
 □ Âm tính với chất ma túy trong cơ thể.
- 
-6/8/26, 11:52 AM about:blank
 about:blank 42/55
 
-## Page 43
-
-Người tiến hành xét nghiệm
-(Ký, ghi rõ họ tên) THỦ TRƯỞNG CƠ QUAN2
-(Ký, ghi rõ họ tên, đóng dấu)
+6/8/26, 11:52 AM about:blank
+Người tiến hành xét nghiệm THỦ TRƯỞNG CƠ QUAN 2
+(Ký, ghi rõ họ tên) (Ký, ghi rõ họ tên, đóng dấu)
 ___________________
-1 Cơ quan chủ quản.
+1
+Cơ quan chủ quản.
 2 Cơ quan thực hiện xét nghiệm hoặc cơ quan của người thực hiện xét nghiệm theo khoản 2 Điều 22 Luật
 Phòng, chống ma túy.
 3 Cấp xã nơi có trụ sở cơ quan lập phiếu.
-4 Tên cơ quan của người tiến hành xét nghiệm.
+4
+Tên cơ quan của người tiến hành xét nghiệm.
 5 Tên người bị xét nghiệm chất ma túy trong cơ thể.
- 
 Mẫu số 04
-........................ 1
-........................ 2
--------
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+........................ 1 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
----------------
+2 ---------------
+........................
+-------
 Số: ...../TB-...... ........, ngày.... tháng.... năm.......
- 
 THÔNG BÁO
 Về hành vi sử dụng trái phép chất ma túy
-Kính gửi: Chủ tịch Ủy ban nhân dân3 ..............................
-................................. 2 thông báo về hành vi sử dụng trái phép chất ma túy của người có tên sau đây:
-Họ và tên: ..........................................................................................4 Giới tính: .................
+3
+Kính gửi: Chủ tịch Ủy ban nhân dân ..............................
+2
+................................. thông báo về hành vi sử dụng trái phép chất ma túy của người có tên sau đây:
+4
+Họ và tên: .......................................................................................... Giới tính: .................
 Tên gọi khác: ........................................................................................................................
 Ngày, tháng, năm sinh: ...../...../...... Nơi sinh: ......................................................................
 Quê quán: .............................................................................................................................
@@ -1885,66 +1842,57 @@ Nơi ở hiện tại: .........................................................
 Số CMND/CCCD/Hộ chiếu: ..................; ngày cấp: ..../..../......; nơi cấp:...........
 Dân tộc: ......................... Tôn giáo: .............. Trình độ học vấn: .........................
 Nghề nghiệp: .....................................................................................................................
-6/8/26, 11:52 AM about:blank
 about:blank 43/55
 
-## Page 44
-
+6/8/26, 11:52 AM about:blank
 Nơi làm việc/học tập: .........................................................................................................
 Nội dung thông báo: (Ghi rõ hành vi vi phạm, nơi thực hiện hành vi vi phạm; ghi rõ cơ quan tiến hành xét
 nghiệm chất ma túy trong cơ thể)
 ............................................................................................................................
 ............................................................................................................................
-Kết quả xét nghiệm chất ma túy trong cơ thể của .............. 4 là dương tính.
-........................ 2 thông báo để Chủ tịch Ủy ban nhân dân ............... 3 biết, thực hiện theo quy định./.
- 
-Nơi nhận:
-- Như trên;
-- Công an cấp xã..............3;
+4
+Kết quả xét nghiệm chất ma túy trong cơ thể của .............. là dương tính.
+2 3
+........................ thông báo để Chủ tịch Ủy ban nhân dân ............... biết, thực hiện theo quy định./.
+Nơi nhận: THỦ TRƯỞNG CƠ QUAN
+- Như trên; (Ký, ghi rõ họ tên, đóng dấu)
+3
+- Công an cấp xã.............. ;
 - Lưu: VT,....
-THỦ TRƯỞNG CƠ QUAN
-(Ký, ghi rõ họ tên, đóng dấu)
 ____________________
 1 Cơ quan chủ quản.
-2 Cơ quan gửi thông báo.
+2
+Cơ quan gửi thông báo.
 3 Nơi người sử dụng trái phép chất ma túy cư trú hoặc nơi phát hiện trong trường hợp không có nơi cư trú
 ổn định.
 4 Người sử dụng trái phép chất ma túy.
- 
 Mẫu số 05
-........................ 1
-........................ 2
--------
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+1 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+........................
 Độc lập - Tự do - Hạnh phúc
----------------
- ........, ngày.... tháng.... năm.......
- 
- 
-Ảnh 3 x 4,
+2 ---------------
+........................
+-------
+........, ngày.... tháng.... năm.......
+Ảnh 3 x 4, BẢN TÓM TẮT LÝ LỊCH
 đóng dấu
-giáp lai
- 
-BẢN TÓM TẮT LÝ LỊCH
-Người sử dụng trái phép chất ma túy
+giáp lai Người sử dụng trái phép chất ma túy
 1. Họ và tên: .............................................................................................
 2. Tên gọi khác: .........................................................................................
-6/8/26, 11:52 AM about:blank
 about:blank 44/55
 
-## Page 45
-
+6/8/26, 11:52 AM about:blank
 3. Giới tính (Nam/Nữ): ................................................................................
 4. Ngày, tháng, năm sinh: ...../...../......
 5. Quê quán: ...............................................................................................
 6. Nơi thường trú/tạm trú: ............................................................................
 7. Nơi ở hiện tại: .........................................................................................
 8. Số CMND/CCCD: .......................nơi cấp: ............ngày cấp......./....../........
-9. Dân tộc:        Kinh: □                          Khác: ...................
-10. Tôn giáo:     Có: □                            Không: □
+9. Dân tộc: Kinh: □ Khác: ...................
+10. Tôn giáo: Có: □ Không: □
 11. Trình độ văn hóa:
-+ Chưa đi học: □           + Tiểu học: □                                         + THCS: □
-+ THPT: □                     + Đại học, trung cấp, cao đẳng: □          + Sau đại học: □
++ Chưa đi học: □ + Tiểu học: □ + THCS: □
++ THPT: □ + Đại học, trung cấp, cao đẳng: □ + Sau đại học: □
 12. Quốc tịch: ....................................................................................................................
 13. Họ tên cha: ..................................................................................................................
 Số CMND/CCCD: .......................nơi cấp: ............ngày cấp......./....../........
@@ -1963,11 +1911,9 @@ Các quyết định xử phạt, áp dụng biện pháp xử lý hành chính 
 túy (số, ngày, tháng, cơ quan ban hành Quyết định, hình thức xử phạt, biện pháp xử lý hành chính)
 Lần 1: ................................................................................................................................
 Lần 2: ................................................................................................................................
-6/8/26, 11:52 AM about:blank
 about:blank 45/55
 
-## Page 46
-
+6/8/26, 11:52 AM about:blank
 Lần 3: ................................................................................................................................
 ...........................................................................................................................................
 17. Có biểu hiện loạn thần (ngáo đá): Có: □ Không: □
@@ -1978,16 +1924,16 @@ Lần 3: .......................................................................
 ...........................................................................................................................................
 ...........................................................................................................................................
 20. Loại ma túy sử dụng
-+ Thuốc phiện: □                                               + Cocain: □
-+ Heroine: □                                                      + Cần sa: □
-+ Amphetamine/Methamphetamine: □                 + Ketamine: □
-+ Ma túy khác: □                                               + Sử dụng nhiều loại ma túy: □
++ Thuốc phiện: □ + Cocain: □
++ Heroine: □ + Cần sa: □
++ Amphetamine/Methamphetamine: □ + Ketamine: □
++ Ma túy khác: □ + Sử dụng nhiều loại ma túy: □
 21. Hình thức sử dụng ma túy.
-+ Tiêm chích: □                                                 + Hít: □
-+ Uống: □                                             + Khác: □
++ Tiêm chích: □ + Hít: □
++ Uống: □ + Khác: □
 + Sử dụng nhiều hình thức: □
 22. Đã từng cai nghiện:................... (có/không). Nếu có, số lần cai nghiện:
-+ 1 lần: □          + 2 lần: □          + 3 lần: □          + Từ 4 lần trở lên: □
++ 1 lần: □ + 2 lần: □ + 3 lần: □ + Từ 4 lần trở lên: □
 Cụ thể (Ghi rõ địa điểm, hình thức, thời gian mỗi lần cai nghiện; số, ngày tháng, cơ quan ban hành Quyết
 định trong trường hợp cai nghiện bắt buộc):
 ...........................................................................................................................................
@@ -1997,23 +1943,18 @@ Cụ thể (Ghi rõ địa điểm, hình thức, thời gian mỗi lần cai ng
 24. Liều lượng ma túy mỗi lần sử dụng
 ...........................................................................................................................................
 ...........................................................................................................................................
-6/8/26, 11:52 AM about:blank
 about:blank 46/55
 
-## Page 47
-
+6/8/26, 11:52 AM about:blank
 25. Thông tin liên hệ của người sử dụng trái phép chất ma túy hoặc người đại diện:
 Số điện thoại: ....................................................................................................................
 Tài khoản mạng xã hội (nếu có): .......................................................................................
- 
-NGƯỜI LẬP BẢN TÓM TẮT LÝ LỊCH
-(Ký, ghi rõ họ tên)
-THỦ TRƯỞNG ĐƠN VỊ
-(Ký, ghi rõ họ tên, đóng dấu)
+NGƯỜI LẬP BẢN TÓM TẮT LÝ LỊCH THỦ TRƯỞNG ĐƠN VỊ
+(Ký, ghi rõ họ tên) (Ký, ghi rõ họ tên, đóng dấu)
 ____________________
 1 Tên cơ quan chủ quản.
-2 Tên cơ quan lập bản tóm tắt lý lịch.
- 
+2
+Tên cơ quan lập bản tóm tắt lý lịch.
 Mẫu số 06
 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
@@ -2035,11 +1976,9 @@ túy, tình trạng sử dụng ma túy, lý do sử dụng ma túy, thời đi�
 .....................................
 ..............................................................................................................................................
 ..............................................................................................................................................
-6/8/26, 11:52 AM about:blank
 about:blank 47/55
 
-## Page 48
-
+6/8/26, 11:52 AM about:blank
 ..............................................................................................................................................
 ..............................................................................................................................................
 Đã áp dụng biện pháp giáo dục tại xã, phường, thị trấn do sử dụng trái phép chất ma túy (ghi rõ số lần (nếu
@@ -2047,39 +1986,35 @@ about:blank 47/55
 .............................................................................
 ..............................................................................................................................................
 Đã cai nghiện ma túy (ghi rõ nơi cai nghiện, số lần (nếu đã bị áp dụng); trường hợp không bị áp dụng thì ghi
-là: không):  
+là: không):
 ...............................................................................................................................................
- 
- NGƯỜI TƯỜNG TRÌNH
+NGƯỜI TƯỜNG TRÌNH
 (Ký, ghi rõ họ tên)
- 
 Mẫu số 07
-........................
-........................ 1
--------
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+........................ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
----------------
-Số: ......./QĐ-UBND ........1, ngày.... tháng.... năm.......
- 
+........................ 1 ---------------
+-------
+Số: ......./QĐ-UBND 1
+........ , ngày.... tháng.... năm.......
 QUYẾT ĐỊNH
 Áp dụng biện pháp quản lý người sử dụng trái phép chất ma túy
-CHỦ TỊCH UBND ........................................... 1
+1
+CHỦ TỊCH UBND ...........................................
 Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số
 điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019;
 Căn cứ Luật Phòng, chống ma túy ngày 30 tháng 3 năm 2021;
 Căn cứ Nghị định số ........../2021/NĐ-CP ngày ... tháng ... năm 2021 của Chính phủ quy định chi tiết và
 hướng dẫn thi hành một số điều của Luật Phòng, chống ma túy;
-Xét đề nghị của Trưởng Công an..................................................................................... 1
+1
+Xét đề nghị của Trưởng Công an.....................................................................................
 QUYẾT ĐỊNH:
 Điều 1. Áp dụng biện pháp quản lý người sử dụng trái phép chất ma túy với người có tên sau:
 Họ và tên: ..................................................... Giới tính:......................
 Tên gọi khác ....................................................................................................................
-6/8/26, 11:52 AM about:blank
 about:blank 48/55
 
-## Page 49
-
+6/8/26, 11:52 AM about:blank
 Ngày, tháng, năm sinh: ....../...../....... Nơi sinh: ..........................................
 Quê quán: ........................................................................................................................
 Nơi thường trú/tạm trú: ....................................................................................................
@@ -2097,63 +2032,66 @@ Tóm tắt hành vi sử dụng trái phép chất ma túy: ....................
 Kết quả xét nghiệm dương tính với chất ma túy trong cơ thể ngày ...../...../......
 Thời hạn quản lý người sử dụng trái phép chất ma túy là 01 năm, kể từ ngày .../.../......
 Điều 2. Thành lập Tổ quản lý người sử dụng trái phép chất ma túy và phân công nhiệm vụ như sau:
-1. Đ/c ............................. Công an ............................... 1- Tổ trưởng;
+1
+1. Đ/c ............................. Công an ............................... - Tổ trưởng;
 2. Ông/bà: ............................................. - Đại diện Thôn/Tổ dân phố - Tổ phó;
-3. Ông/bà: ............................................... 2- Tổ viên;
-4. Ông/bà: ............................................... 3 - Tổ viên;
-................................................ 4
+2
+3. Ông/bà: ............................................... - Tổ viên;
+3
+4. Ông/bà: ............................................... - Tổ viên;
+4
+................................................
 Điều 3. Trách nhiệm thực hiện quản lý người sử dụng trái phép chất ma túy
-1. Công an1 .................................. có trách nhiệm:
+1
+1. Công an .................................. có trách nhiệm:
 a) Đưa người sử dụng trái phép chất ma túy vào danh sách quản lý.
 b) Tổ chức thực hiện việc xét nghiệm chất ma túy trong cơ thể trong thời hạn quản lý.
 2. Tổ quản lý người sử dụng trái phép chất ma túy có trách nhiệm tư vấn, động viên, giáo dục, hỗ trợ người
 bị quản lý có tên nêu tại Điều 1 Quyết định này.
-6/8/26, 11:52 AM about:blank
 about:blank 49/55
 
-## Page 50
-
+6/8/26, 11:52 AM about:blank
 3. Gia đình người bị quản lý có trách nhiệm phối hợp quản lý, động viên, giáo dục và giúp đỡ người sử
 dụng trái phép chất ma túy.
 4. Người sử dụng trái phép chất ma túy bị áp dụng biện pháp quản lý có trách nhiệm chấp hành yêu cầu xét
-nghiệm chất ma túy trong cơ thể của Công an ................................... 1
+1
+nghiệm chất ma túy trong cơ thể của Công an ...................................
 Điều 4. Quyết định này có hiệu lực kể từ ngày ký.
-Điều 5. Trưởng Công an1 ....................... và những người có tên tại Điều 1, Điều 2 chịu trách nhiệm thi hành
+1
+Điều 5. Trưởng Công an ....................... và những người có tên tại Điều 1, Điều 2 chịu trách nhiệm thi hành
 Quyết định này./.
- 
-Nơi nhận:
+1
+CHỦ TỊCH
+Nơi nhận: (Ký, ghi rõ họ tên, đóng dấu)
 - Như Điều 5;
 - Lưu: VT, ...
-CHỦ TỊCH1
-(Ký, ghi rõ họ tên, đóng dấu)
 ___________________
 1 Tên xã/phường/thị trấn nơi ra quyết định.
 2 Người đại diện cho gia đình người sử dụng trái phép chất ma túy hoặc người có uy tín trong dòng họ.
-3 Đại diện tổ chức chính trị - xã hội (căn cứ vào nhân thân của người sử dụng trái phép chất ma túy).
+3
+Đại diện tổ chức chính trị - xã hội (căn cứ vào nhân thân của người sử dụng trái phép chất ma túy).
 4 Những thành viên khác (nếu có).
- 
 Mẫu số 08
-........................ 1
-ỦY BAN NHÂN DÂN …….2
--------
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+........................ 1 CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
+2
+ỦY BAN NHÂN DÂN …….
 ---------------
-Số: ......./TB-......... ........2, ngày.... tháng.... năm.......
- 
+-------
+Số: ......./TB-......... ........ 2 , ngày.... tháng.... năm.......
 THÔNG BÁO
 Về việc chuyển hồ sơ quản lý người sử dụng trái phép chất ma túy
-Kính gửi: Chủ tịch UBND................................ 3
-Chủ tịch UBND........................ 2 thông báo với Chủ tịch UBND.................... 3 về việc chuyển hồ sơ quản lý
+3
+Kính gửi: Chủ tịch UBND................................
+2 3
+Chủ tịch UBND........................ thông báo với Chủ tịch UBND.................... về việc chuyển hồ sơ quản lý
 người sử dụng trái phép chất ma túy có tên sau:
 Họ và tên: ..................................................... Giới tính:.......................................................
 Ngày, tháng, năm sinh: ....../...../....... Nơi sinh: ...................................................................
 Quê quán: ...........................................................................................................................
-6/8/26, 11:52 AM about:blank
 about:blank 50/55
 
-## Page 51
-
+6/8/26, 11:52 AM about:blank
 Nơi thường trú/tạm trú: .......................................................................................................
 Nơi ở hiện tại: .....................................................................................................................
 Số CMND/CCCD/Hộ chiếu: ..................; ngày cấp: …../...../……..; nơi cấp: .......................
@@ -2161,59 +2099,58 @@ Dân tộc: ......................... Tôn giáo: .............. Trình độ h�
 Nghề nghiệp: ......................................................................................................................
 Nơi làm việc/học tập: .........................................................................................................
 Là người đang trong thời hạn bị áp dụng biện pháp quản lý người sử dụng trái phép chất ma túy
-tại....................... 2
+2
+tại.......................
 Thời gian quản lý từ ngày ...../...../...... đến ngày ...../...../......
-Nơi chuyển đến:................................................................................................................ 3
+3
+Nơi chuyển đến:................................................................................................................
 Hồ sơ quản lý: có danh mục kèm theo.
-Chủ tịch UBND............................. 2 thông báo để Chủ tịch UBND3 tiếp tục tổ chức quản lý đối với người
+2 3
+Chủ tịch UBND............................. thông báo để Chủ tịch UBND tiếp tục tổ chức quản lý đối với người
 sử dụng trái phép chất ma túy có tên nêu trên./.
- 
-Nơi nhận:
-- Như trên;
-- Công an cấp xã ........ 2;
-- Công an cấp xã ........ 3;
-- Lưu: VT, ...
 CHỦ TỊCH
-(Ký, ghi rõ họ tên, đóng dấu)
+Nơi nhận: (Ký, ghi rõ họ tên, đóng dấu)
+- Như trên;
+2
+- Công an cấp xã ........ ;
+3
+- Công an cấp xã ........ ;
+- Lưu: VT, ...
 ___________________
 1 Cơ quan chủ quản.
 2 Nơi đang quản lý người sử dụng trái phép chất ma túy.
-3 Nơi người đang trong thời hạn quản lý chuyển đến.
- 
+3
+Nơi người đang trong thời hạn quản lý chuyển đến.
 DANH MỤC TÀI LIỆU TRONG HỒ SƠ QUẢN LÝ
 STT Tên tài liệu Số, ngày, tháng
-1   
-2   
-3   
-4   
-...   
-6/8/26, 11:52 AM about:blank
+1
+2
+3
+4
+...
 about:blank 51/55
 
-## Page 52
-
-....   
-....   
- 
+6/8/26, 11:52 AM about:blank
+....
+....
 Mẫu số 09
-........................
-UBND ............1
--------
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
----------------
-Số: ......./QĐ-UBND ........1, ngày.... tháng.... năm.......
- 
+........................ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+UBND ............ 1 Độc lập - Tự do - Hạnh phúc
+------- ---------------
+Số: ......./QĐ-UBND 1
+........ , ngày.... tháng.... năm.......
 QUYẾT ĐỊNH
 Dừng quản lý người sử dụng trái phép chất ma túy
-CHỦ TỊCH UBND .................................1
+1
+CHỦ TỊCH UBND .................................
 Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số
 điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019;
 Căn cứ Luật Phòng, chống ma túy ngày 30 tháng 3 năm 2021;
 Căn cứ Nghị định số ......./2021/NĐ-CP ngày ... tháng ... năm 2021 của Chính phủ quy định chi tiết và
 hướng dẫn thi hành một số điều của Luật Phòng, chống ma túy;
 Căn cứ Quyết định áp dụng biện pháp quản lý người sử dụng trái phép chất ma túy;
-Xét đề nghị của Trưởng Công an.................................................................................... 1
+1
+Xét đề nghị của Trưởng Công an....................................................................................
 QUYẾT ĐỊNH:
 Điều 1. Dừng áp dụng biện pháp quản lý người sử dụng trái phép chất ma túy với người có tên sau:
 Họ và tên: ..................................................... Giới tính......................................................
@@ -2226,13 +2163,12 @@ Số CMND/CCCD/Hộ chiếu: ..................; ngày cấp: ....../....../....
 Dân tộc: ......................... Tôn giáo: .............. Trình độ học vấn: ......................................
 Nghề nghiệp: ....................................................................................................................
 Nơi làm việc/học tập: ........................................................................................................
-6/8/26, 11:52 AM about:blank
 about:blank 52/55
 
-## Page 53
-
+6/8/26, 11:52 AM about:blank
 Bị quản lý theo Quyết định áp dụng biện pháp quản lý người sử dụng trái phép chất ma túy số ........./QĐ-
-UBND ngày …../……/…… của Chủ tịch Ủy ban nhân dân.................. 2
+2
+UBND ngày …../……/…… của Chủ tịch Ủy ban nhân dân..................
 Theo quy định tại điểm …… khoản 5 Điều 23 Luật Phòng, chống ma túy, dừng quản lý đối với
 …………………………………………..………… vì lý do:
 □ Kết quả xác định tình trạng nghiện là có nghiện:
@@ -2247,44 +2183,40 @@ Dừng quản lý người sử dụng trái phép chất ma túy kể từ ngà
 Điều 2. Tổ quản lý người sử dụng trái phép chất ma túy thành lập theo Quyết định số …………. giải thể kể
 từ ngày Quyết định này có hiệu lực.
 Điều 3. Quyết định này có hiệu lực kể từ ngày ký.
-Điều 4. Trưởng Công an1..................... và những người có tên tại Điều 1, Điều 2 chịu trách nhiệm thi hành
+1
+Điều 4. Trưởng Công an ..................... và những người có tên tại Điều 1, Điều 2 chịu trách nhiệm thi hành
 Quyết định này./.
- 
-Nơi nhận:
+CHỦ TỊCH
+Nơi nhận: (Ký, ghi rõ họ tên, đóng dấu)
 - Như Điều 4;
 - Gia đình người có tên tại Điều 1;
 - Các tổ chức, cá nhân có liên quan;
 - Lưu: VT, ...
-CHỦ TỊCH
-(Ký, ghi rõ họ tên, đóng dấu)
 __________________
 1 Tên xã, phường, thị trấn nơi ra quyết định dừng quản lý.
 2 Nơi ra quyết định quản lý.
- 
 Mẫu số 10
-........................
-UBND ............1
--------
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
+........................ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+1 Độc lập - Tự do - Hạnh phúc
+UBND ............
 ---------------
-Số: ......./ QĐ-UBND ........1, ngày.... tháng.... năm.......
- 
-6/8/26, 11:52 AM about:blank
+-------
+Số: ......./ QĐ-UBND ........ 1 , ngày.... tháng.... năm.......
 about:blank 53/55
 
-## Page 54
-
+6/8/26, 11:52 AM about:blank
 QUYẾT ĐỊNH
 Chấm dứt quản lý người sử dụng trái phép chất ma túy
-CHỦ TỊCH UBND................................... 1
+1
+CHỦ TỊCH UBND...................................
 Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số
 điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019;
 Căn cứ Luật Phòng, chống ma túy ngày 30 tháng 3 năm 2021;
 Căn cứ Nghị định số ......./2021/NĐ-CP ngày ... tháng ... năm 2021 của Chính phủ quy định chi tiết và
 hướng dẫn thi hành một số điều của Luật Phòng, chống ma túy;
 Căn cứ Quyết định áp dụng biện pháp quản lý người sử dụng trái phép chất ma túy;
-Xét đề nghị của Trưởng Công an1 ……………………………………………………………
+1
+Xét đề nghị của Trưởng Công an ……………………………………………………………
 QUYẾT ĐỊNH:
 Điều 1. Chấm dứt áp dụng biện pháp quản lý người sử dụng trái phép chất ma túy với người có tên sau:
 Họ và tên: ..................................................... Giới tính:......................
@@ -2298,28 +2230,25 @@ Dân tộc: ......................... Tôn giáo: .............. Trình độ h�
 Nghề nghiệp: ......................................................................................................................
 Nơi làm việc/học tập: .........................................................................................................
 Đến nay đã hết thời hạn quản lý theo Quyết định số …………. ngày ………. của Chủ tịch Ủy ban nhân
-dân.................... 2
+2
+dân....................
 Điều 2. Tổ quản lý người sử dụng trái phép chất ma túy thành lập theo Quyết định số ................. giải thể kể
 từ ngày Quyết định này có hiệu lực.
 Điều 3. Quyết định này có hiệu lực kể từ ngày ký.
-Điều 4. Trưởng Công an1 ................. và những người có tên tại Điều 1, Điều 2 chịu trách nhiệm thi hành
+1
+Điều 4. Trưởng Công an ................. và những người có tên tại Điều 1, Điều 2 chịu trách nhiệm thi hành
 Quyết định này./.
- 
-6/8/26, 11:52 AM about:blank
 about:blank 54/55
 
-## Page 55
-
-Nơi nhận:
+6/8/26, 11:52 AM about:blank
+CHỦ TỊCH
+Nơi nhận: (Ký, ghi rõ họ tên, đóng dấu)
 - Như Điều 4;
 - Gia đình người có tên tại Điều 1;
 - Các tổ chức, cá nhân có liên quan;
 - Lưu: VT, ...
-CHỦ TỊCH
-(Ký, ghi rõ họ tên, đóng dấu)
 ___________________
 1 Tên xã, phường, thị trấn nơi ra quyết định dừng quản lý.
-2 Nơi ra quyết định quản lý.
- 
-6/8/26, 11:52 AM about:blank
+2
+Nơi ra quyết định quản lý.
 about:blank 55/55
