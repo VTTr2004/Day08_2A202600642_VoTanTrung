@@ -3,7 +3,7 @@ python-dotenv>=1.0.0
 requests>=2.31.0
 
 # Task 2 - Crawling
-crawl4ai>=0.3.0
+# crawl4ai>=0.3.0
 
 # Task 3 - Document conversion
 markitdown[pdf]>=0.1.0
@@ -26,7 +26,8 @@ pageindex>=0.1.0
 
 # Task 10 - Generation
 openai>=1.30.0
-# google-generativeai>=0.5.0  # Alternative: Gemini
+google-genai>=1.0.0         # Gemini generation
+# google-generativeai>=0.5.0  # Deprecated fallback only
 
 # Group project - UI
 streamlit>=1.35.0
@@ -34,6 +35,8 @@ streamlit>=1.35.0
 # chainlit>=1.0.0        # Alternative for chatbot
 
 # Group project - Evaluation (choose one)
-deepeval>=1.0.0
-# ragas>=0.1.0           # Alternative
+# deepeval>=1.0.0        # Alternative
+ragas>=0.1.0
+datasets>=2.19.0
+langchain-google-genai>=1.0.0
 # trulens>=1.0.0         # Alternative

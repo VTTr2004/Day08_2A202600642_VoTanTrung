@@ -47,7 +47,8 @@ TOP_P = 0.9
 # Low temperature because legal/news RAG should prioritize factuality.
 TEMPERATURE = 0.3
 
-GENERATION_MODEL = os.getenv("OPENAI_GENERATION_MODEL", "gpt-4o-mini")
+OPENAI_GENERATION_MODEL = os.getenv("OPENAI_GENERATION_MODEL", "gpt-4o-mini")
+GEMINI_GENERATION_MODEL = os.getenv("GEMINI_GENERATION_MODEL", "gemini-3.1-flash-lite")
 
 
 SYSTEM_PROMPT = """Answer the following question comprehensively in Vietnamese.
@@ -165,7 +166,7 @@ def _generate_with_openai(query: str, context: str) -> str:
     client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
     user_message = f"Context:\n{context}\n\n---\n\nQuestion: {query}"
     response = client.chat.completions.create(
-        model=GENERATION_MODEL,
+        model=OPENAI_GENERATION_MODEL,
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": user_message},
@@ -174,6 +175,43 @@ def _generate_with_openai(query: str, context: str) -> str:
         top_p=TOP_P,
     )
     return response.choices[0].message.content or "I cannot verify this information"
+
+
+def _generate_with_gemini(query: str, context: str) -> str:
+    api_key = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
+    user_message = f"Context:\n{context}\n\n---\n\nQuestion: {query}"
+
+    try:
+        from google import genai
+        from google.genai import types
+
+        client = genai.Client(api_key=api_key)
+        response = client.models.generate_content(
+            model=GEMINI_GENERATION_MODEL,
+            contents=user_message,
+            config=types.GenerateContentConfig(
+                system_instruction=SYSTEM_PROMPT,
+                temperature=TEMPERATURE,
+                top_p=TOP_P,
+            ),
+        )
+        return getattr(response, "text", None) or "I cannot verify this information"
+    except ImportError:
+        import google.generativeai as legacy_genai
+
+        legacy_genai.configure(api_key=api_key)
+        model = legacy_genai.GenerativeModel(
+            GEMINI_GENERATION_MODEL,
+            system_instruction=SYSTEM_PROMPT,
+        )
+        response = model.generate_content(
+            user_message,
+            generation_config={
+                "temperature": TEMPERATURE,
+                "top_p": TOP_P,
+            },
+        )
+        return getattr(response, "text", None) or "I cannot verify this information"
 
 
 def generate_with_citation(query: str, top_k: int = TOP_K) -> dict:
@@ -193,6 +231,11 @@ def generate_with_citation(query: str, top_k: int = TOP_K) -> dict:
 
     if not _has_evidence(query, reordered):
         answer = "I cannot verify this information"
+    elif os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY"):
+        try:
+            answer = _generate_with_gemini(query, context)
+        except Exception:
+            answer = _extractive_answer(query, reordered)
     elif os.getenv("OPENAI_API_KEY"):
         try:
             answer = _generate_with_openai(query, context)
@@ -209,6 +252,11 @@ def generate_with_citation(query: str, top_k: int = TOP_K) -> dict:
         "top_k": top_k,
         "top_p": TOP_P,
         "temperature": TEMPERATURE,
+        "model": GEMINI_GENERATION_MODEL
+        if os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
+        else OPENAI_GENERATION_MODEL
+        if os.getenv("OPENAI_API_KEY")
+        else "extractive_fallback",
     }
 
 
